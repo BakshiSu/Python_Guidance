@@ -27,4 +27,5 @@ print("Area of the Circle" + " of radious " + str(r) + " is " + str(area) )
 ###5
 ### Name in Reverse order
 f = str(input("Plese input your first name:"))
-l = str(input("Please "))
+l = str(input("Please input your second name:"))
+print(l + " " + f)
