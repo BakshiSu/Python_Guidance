@@ -9,3 +9,10 @@ n2 = int("%s%s" %(a,a) )
 n3 = int("%s%s%s" %(a,a,a))
 y = (n1 + n2 + n3)
 print("Result is:" + str(y))
+
+
+###11
+print(abs.__doc__) 
+
+
+###12
